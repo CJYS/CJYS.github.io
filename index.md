@@ -3,8 +3,8 @@
 안녕하세요. 잘 부탁드립니다.
 
 코딩은 처음이지만 열심히 공부하겠습니다!!
-### EWHA
-
+### 소속
+이화여자대학교 식품영양학과
 
 ```markdown
 Syntax highlighted code block
