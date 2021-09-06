@@ -2,8 +2,7 @@
 
 안녕하세요. 잘 부탁드립니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+코딩은 처음이지만 열심히 공부하겠습니다!!
 ### EWHA
 
 
